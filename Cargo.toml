@@ -2,5 +2,5 @@
 name = "modified"
 version = "0.1.0"
 edition = "2021"
-description = "Keeps track of changes in your variables"
+description = "Keep track of changes in your variables"
 authors = ["sy1ntexx"]
